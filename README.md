@@ -7,4 +7,4 @@
 5. Open cmd prompt/terminal in the folder with the .py and run python main.y
 6. Go to your Discord server and run /badge
 ```
-If you don't know how to use it, LEARN CODE D*mb A*s
+If you don't know how to use it, LEARN CODE DUMB ASS
