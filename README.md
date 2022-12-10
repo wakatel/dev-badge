@@ -1,4 +1,3 @@
-# active-developer-badge
 ```
 1. Download the repository or "git clone" it
 2. Install https://github.com/nextcord/nextcord and have Python installed
@@ -8,3 +7,4 @@
 5. Open cmd prompt/terminal in the folder with the .py and run python main.y
 6. Go to your Discord server and run /badge
 ```
+If you don't know how to use it, LEARN CODE D*mb A*s
